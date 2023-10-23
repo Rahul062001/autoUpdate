@@ -92,3 +92,5 @@ typings/
 out/
 
 /dist
+/dists
+/ElectronElectron-Auto-Update
